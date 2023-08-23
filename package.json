@@ -1,0 +1,12 @@
+{
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "introduccion a control de versiones",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convertir"
+  },
+  "author": "",
+  "license": "ISC"
+}
